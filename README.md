@@ -1,5 +1,5 @@
 # POP!_OS
-* Repo for all things POP!_OS related.
+* All things POP!_OS related.
 
 # Wallpapers
 * See Patreon for new wallpapers (https://patreon.com/x4043)
