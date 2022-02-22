@@ -1,5 +1,6 @@
 # POP!_OS Wallpapers
 * All images are available in 4k.
+* Images below are Pack 1 of the wallpapers.
 
 ## RETRO POP
 ![RETRO POP](https://github.com/x4043/pop-os/blob/main/wallpapers/aesthetic-wave-retro-pop.png)
