@@ -1,7 +1,7 @@
 # POP!_OS Wallpapers
 * [Click here to support me.](https://www.paypal.com/donate/?hosted_button_id=BXNTN9TCHD6XW)
-* All images are available in 4k.
-* Images below are Pack 1 of the wallpapers.
+* All images are available in 4k and are uploaded in full.
+* Images below are uncategorised and not part of a specific group.
 
 ## RETRO POP
 ![RETRO POP](https://github.com/x4043/pop-os/blob/main/wallpapers/aesthetic-wave-retro-pop.png)
