@@ -4,7 +4,7 @@
 * Dark and light versions available.
 * Multiple colours to choose from.
 
-## UNCATEGORISED
+## NEON_BRANDED_CUSTOM_POPOS
 ![NEON PURPLE/BLUE/PINK](https://github.com/x4043/pop-os/blob/main/wallpapers/neon_branded_custom_popos.png)
 
 ## POP!_XEN
