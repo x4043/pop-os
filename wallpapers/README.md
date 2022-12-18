@@ -1,5 +1,4 @@
 # POP!_OS Wallpapers
-* [Click here to support me.](https://www.paypal.com/donate/?hosted_button_id=BXNTN9TCHD6XW)
 * All images are available in 4k and are uploaded in full.
 * Dark and light versions available.
 * Multiple colours to choose from.
